@@ -1,0 +1,153 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+header {
+    background-color: #004aad;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+.logo {
+    max-width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.tagline, .gst {
+    margin: 0.5em 0;
+}
+
+.hero {
+    background-color: #ffa987;
+    color: #444140;
+    padding: 2em 0;
+    text-align: center;
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2em 1em;
+}
+
+.offices, .services {
+    margin-bottom: 2em;
+}
+
+.offices h2, .services h2 {
+    background-color: #004aad;
+    color: white;
+    padding: 0.5em;
+    text-transform: uppercase;
+}
+
+.office-locations, .service-locations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.office, .service {
+    background-color: white;
+    border: 1px solid #ddd;
+    margin: 0.5em;
+    padding: 1em;
+    flex: 1 1 45%;
+}
+
+footer {
+    background-color: #004aad;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+header {
+    background-color: #004aad;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+.logo {
+    max-width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.tagline, .gst {
+    margin: 0.5em 0;
+}
+
+.hero {
+    background-color: #ffa987;
+    color: #444140;
+    padding: 2em 0;
+    text-align: center;
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2em 1em;
+}
+
+.offices, .services {
+    margin-bottom: 2em;
+}
+
+.offices h2, .services h2 {
+    background-color: #004aad;
+    color: white;
+    padding: 0.5em;
+    text-transform: uppercase;
+}
+
+.office-locations, .service-locations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.office, .service {
+    background-color: white;
+    border: 1px solid #ddd;
+    margin: 0.5em;
+    padding: 1em;
+    flex: 1 1 45%;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+footer {
+    background-color: #004aad;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
